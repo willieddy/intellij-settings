@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".cert" type="PLAIN_TEXT" />
+      <mapping pattern="FinderCase1" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping ext="table" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

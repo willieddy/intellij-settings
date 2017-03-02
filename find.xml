@@ -1,0 +1,19 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'NOS-Test-Automation'" />
+    <option name="defaultScopeName" value="Project 'NOS-Test-Automation'" />
+    <option name="SEARCH_SCOPE" value="Project 'NOS-Test-Automation'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.xml</mask>
+      <mask>*.*</mask>
+    </recentFileMasks>
+  </component>
+</application>
