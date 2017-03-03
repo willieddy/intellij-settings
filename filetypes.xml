@@ -6,7 +6,9 @@
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping ext="table" type="PLAIN_TEXT" />
+      <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <removed_mapping ext="dll" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
