@@ -10,6 +10,7 @@
       <mapping ext="table" type="PLAIN_TEXT" />
       <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <removed_mapping ext="dll" type="UNKNOWN" />
     </extensionMap>
   </component>
