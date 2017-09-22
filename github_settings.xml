@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="williamweddyADM" />
-    <option name="HOST" value="https://csp-github.sam.gov" />
-    <option name="AUTH_TYPE" value="BASIC" />
-  </component>
-</application>
