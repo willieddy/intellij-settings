@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="hmi icm" />
-    <option name="defaultScopeName" value="hmi icm" />
-    <option name="SEARCH_SCOPE" value="hmi icm" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
